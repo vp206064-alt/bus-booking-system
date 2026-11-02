@@ -1,0 +1,6 @@
+@RedBus.Server_HostAddress = http://localhost:5237
+
+GET {{RedBus.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="redbus.client/redbus.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="RedBus.Server/RedBus.Server.csproj" />
+</Solution>
